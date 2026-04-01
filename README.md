@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://github.com/rdhaf-1/rdhaf-1/main/welcome2.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="welcome2.svg" style="width: 100%;" alt="Click to see the source">
   </a>
   
 </div>
